@@ -486,4 +486,5 @@
 361734:	'The Baker and the Beauty US',
 374515: 'Love Life US',
 359606: 'Brave New World US',
-359326: 'Warrior'
+359326: 'Warrior',
+72879: 'Animaniacs 2020'
