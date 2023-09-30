@@ -28,7 +28,7 @@
 70726: 'Babylon 5', 'Babylon5',
 83714: 'Genius', 'Genius With Dave Gormand',
 212571: 'Come Fly With Me (2010)',
-81563: 'Border Security AU Front Line', 'Border Security Australias Front Line', 'Border Security Australias Frontline', 
+81563: 'Border Security AU Front Line', 'Border Security Australias Front Line', 'Border Security Australias Frontline',
 172381: 'Silent Library (US)',
 80646: 'Frontline (US)', 'Frontline US',
 189931: 'RBT (AU)',
@@ -115,7 +115,7 @@
 248835: 'Once Upon a Time (2011)', 'Once Upon a Time',
 76119: 'NOVA', 'PBS NOVA',
 251418: 'Frozen Planet', 'David Attenborough Frozen Planet', 'BBC Frozen Planet',
-252319: 'Dragons\' Den: How To Win In The Den', 'How to win in the Den', 
+252319: 'Dragons\' Den: How To Win In The Den', 'How to win in the Den',
 149101: 'A League of Their Own (2010)', 'A League of Their Own UK',
 70994: 'MASH',
 72164: 'The O.C.', 'The OC',
@@ -293,7 +293,7 @@
 83115: 'The Worlds Strictest Parents UK',
 273002: 'I Couldnt Become a Hero So I Reluctantly Decided to Get a Job',
 269653: 'The Goldbergs',
-274099: 'At Midnight', 'At Midnight With Chris Hardwick', 
+274099: 'At Midnight', 'At Midnight With Chris Hardwick',
 271936: 'Played CA',
 223161: 'CBC Marketplace',
 95521: 'National Geographic Ancient Megastructures',
@@ -495,3 +495,4 @@
 364477: 'The L Word Generation Q', 'L Word The Generation Q',
 366972: 'Foundation'
 400267: 'Ghosts', 'Ghosts 2021'
+371310: 'Mushoku Tensei'
