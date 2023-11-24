@@ -497,4 +497,5 @@
 400267: 'Ghosts', 'Ghosts 2021'
 371310: 'Mushoku Tensei',
 424536: 'Frieren - Beyond Journey\'s End'
-402474: 'Hells Paradise'
+402474: 'Hells Paradise',
+361701: 'Ghosts UK', 'Ghosts 2019'
