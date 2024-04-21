@@ -503,4 +503,5 @@
 400573: 'Banished From the Hero\'s Party, I Decided To Live a Quiet Life in the Countryside', 'Banished from the Heros Party I Decided to Live a Quiet Life in the Countryside',
 392573: 'Shogun',
 412432: 'X-Men 97',
-401630: 'NCIS: Hawaii', 'NCIS Hawaii'
+401630: 'NCIS: Hawaii', 'NCIS Hawaii',
+371310: 'Mushoku Tensei', 'Mushoku Tensei Isekai Ittara Honki Dasu', 'Mushoku Tensei Jobless Reincarnation'
