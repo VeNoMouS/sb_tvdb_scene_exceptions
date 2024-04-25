@@ -506,4 +506,5 @@
 401630: 'NCIS: Hawaii', 'NCIS Hawaii',
 371310: 'Mushoku Tensei', 'Mushoku Tensei Isekai Ittara Honki Dasu', 'Mushoku Tensei Jobless Reincarnation',
 439755: 'Re:Monster', 'Re Monster', "Re-Monster',
-73762: 'Grey\'s Anatomy', 'Greys Anatomy'
+73762: 'Grey\'s Anatomy', 'Greys Anatomy',
+194031: 'Bob\'s Burgers', 'Bobs Burgers'
