@@ -505,4 +505,5 @@
 412432: 'X-Men 97',
 401630: 'NCIS: Hawaii', 'NCIS Hawaii',
 371310: 'Mushoku Tensei', 'Mushoku Tensei Isekai Ittara Honki Dasu', 'Mushoku Tensei Jobless Reincarnation',
-439755: 'Re:Monster', 'Re Monster', "Re-Monster'
+439755: 'Re:Monster', 'Re Monster', "Re-Monster',
+73762: 'Grey\'s Anatomy', 'Greys Anatomy'
