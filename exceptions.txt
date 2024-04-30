@@ -507,4 +507,5 @@
 371310: 'Mushoku Tensei', 'Mushoku Tensei Isekai Ittara Honki Dasu', 'Mushoku Tensei Jobless Reincarnation',
 439755: 'Re:Monster', 'Re Monster', "Re-Monster',
 73762: 'Grey\'s Anatomy', 'Greys Anatomy',
-194031: 'Bob\'s Burgers', 'Bobs Burgers'
+194031: 'Bob\'s Burgers', 'Bobs Burgers',
+440897: 'Chillin\' in Another World with Level 2 Super Cheat Powers', 'Chillin\'in Another World With Level 2 Super Cheat Powers'
