@@ -511,4 +511,5 @@
 440897: 'Chillin\' in Another World with Level 2 Super Cheat Powers', 'Chillin\'in Another World With Level 2 Super Cheat Powers',
 303867: 'Konosuba Gods blessing on this wonderful world', 'KonoSuba - God\'s blessing on this wonderful world!',
 428030: 'Sentai Daishikkaku', 'Go! Go! Loser Ranger!', 'Go Go Loser Ranger',
-348545: 'Demon Slayer: Kimetsu no Yaiba', 'Demon Slayer Kimetsu no Yaiba', 'Demon Slayer'
+348545: 'Demon Slayer: Kimetsu no Yaiba', 'Demon Slayer Kimetsu no Yaiba', 'Demon Slayer',
+416998: 'NieR:Automata Ver1.1a', 'NieR Automata Ver1.1a', 'NieR Automata Ver1 1a'
