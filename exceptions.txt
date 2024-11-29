@@ -513,4 +513,5 @@
 428030: 'Sentai Daishikkaku', 'Go! Go! Loser Ranger!', 'Go Go Loser Ranger',
 348545: 'Demon Slayer: Kimetsu no Yaiba', 'Demon Slayer Kimetsu no Yaiba', 'Demon Slayer',
 416998: 'NieR:Automata Ver1.1a', 'NieR Automata Ver1.1a', 'NieR Automata Ver1 1a',
-305089: 'Re: ZERO, Starting Life in Another World', 'Re ZERO Starting Life in Another World'
+305089: 'Re: ZERO, Starting Life in Another World', 'Re ZERO Starting Life in Another World',
+367138: 'Star Trek: Lower Decks', 'Star Trek Lower Decks'
