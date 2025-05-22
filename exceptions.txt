@@ -515,4 +515,5 @@
 416998: 'NieR:Automata Ver1.1a', 'NieR Automata Ver1.1a', 'NieR Automata Ver1 1a',
 305089: 'Re: ZERO, Starting Life in Another World', 'Re ZERO Starting Life in Another World',
 367138: 'Star Trek: Lower Decks', 'Star Trek Lower Decks',
-367118: 'Dune: Prophecy', 'Dune Prophecy'
+367118: 'Dune: Prophecy', 'Dune Prophecy',
+437408: 'Lazarus (2025)', 'Lazarus'
